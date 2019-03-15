@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Innovation extends Component {
+class Home extends Component {
     render() {
         return (
             <div>
-                이노베이션 리스트
+                Home
             </div>
         );
     }
 }
 
-export default Innovation;
+export default Home;
