@@ -12,7 +12,7 @@ class Header extends Component {
                 <NavLink to="/">홈</NavLink><br />
                 <NavLink to="/innovation">이노베이션</NavLink><br />
                 <NavLink to="/innovationChildren">이노베이션 자식</NavLink><br />
-                <NavLink to="/innovationChildren/1">이노베이션 자식1</NavLink><br />
+                <NavLink to="/innovationChildren/01">이노베이션 자식1</NavLink><br />
                 <NavLink to="/innovationChildren/13">이노베이션 자식13</NavLink><br />
                 <div style={style}></div>
             </div>
